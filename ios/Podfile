@@ -19,6 +19,8 @@ target 'Prueba' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
+  pod 'react-native-background-worker', :path => '../node_modules/react-native-background-worker'
+
   target 'PruebaTests' do
     inherit! :complete
     # Pods for testing

@@ -5459,6 +5459,16 @@ react-native-background-fetch@^4.1.0:
   resolved "https://registry.yarnpkg.com/react-native-background-fetch/-/react-native-background-fetch-4.1.0.tgz#6b5a4a85c9fcf18d3108bdca1d15a92c1166fe9a"
   integrity sha512-LWl1xuLNfHbD9MQXV31RvpCia9hMxOW+gwjp5yzW7BbiZWTWV2TQ9szuHaPn4NBWHDdh+MtI5pb6JV9P/LCaOQ==
 
+react-native-background-job@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/react-native-background-job/-/react-native-background-job-2.3.1.tgz#c9aa299d9ffb40b84a3156dec5fa40a604a9462b"
+  integrity sha512-6R0krrH+zDNolauCyxjotiSK3X2YIJIP9+YX4HVVLFd/coAUnQKn1oy0fCqQzK4zhcggLN6D27wVOkjl5IjPaw==
+
+react-native-background-worker@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/react-native-background-worker/-/react-native-background-worker-0.0.5.tgz#7423f68f72bb329695b13f688c9dd31f77dd9de3"
+  integrity sha512-wygg1Eb6oVZiOUivLPxwBWgk4eY9XwuZfR7LbkhATNkKmXvgB7cX5vGI6+2Zqmj4vQb/3gBIMi6/CoO8P2D3zw==
+
 react-native-codegen@^0.0.13:
   version "0.0.13"
   resolved "https://registry.yarnpkg.com/react-native-codegen/-/react-native-codegen-0.0.13.tgz#4cc94546fc75a5dbe9350d59c10108f2efe6bc17"
